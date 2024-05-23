@@ -1,2 +1,2 @@
 # lokbidhi
-Lokbidhi Universe site https://lokbidhi.com
+![screenshot](screenshot.png)
