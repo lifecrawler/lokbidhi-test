@@ -1,0 +1,12 @@
+.alias
+.bash_history
+.bash_profile
+.bashrc
+.cache/
+.cshrc
+.php/
+.ssh/
+logs/
+public/
+t/
+vv.dreamhosters.com/
